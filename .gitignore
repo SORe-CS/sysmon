@@ -1,1 +1,29 @@
+#Rust build output
 target/
+
+#SQLite databases
+*.sqlite
+*.db
+
+#CSV logs
+*.csv
+
+#.vscode settings
+.vscode/
+
+# Env
+.env
+*.env
+
+#metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+*~
+.fuse_hidden*
+.Trash-*
+
+.DS_Store
+**/.DS_Store
