@@ -1,6 +1,6 @@
 use std::fs;
 use std::collections::HashMap;
-use std::time::{Instant, Duration};
+use std::time::Instant;
 use super::{Collector, Snapshot};
 
 const SECTOR_SIZE: f64 = 512.00;

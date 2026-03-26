@@ -1,5 +1,4 @@
 use std::fs;
-use std::io;
 use super::{Collector, Snapshot};
 use std::time::Instant;
 
